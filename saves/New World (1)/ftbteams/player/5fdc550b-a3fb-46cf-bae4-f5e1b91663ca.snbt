@@ -1,0 +1,17 @@
+{
+	id: "5fdc550b-a3fb-46cf-bae4-f5e1b91663ca"
+	type: "player"
+	player_name: "ZotyDev"
+	ranks: {
+		5fdc550b-a3fb-46cf-bae4-f5e1b91663ca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ZotyDev"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

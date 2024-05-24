@@ -1,0 +1,30 @@
+{
+	version: 1
+	uuid: "5fdc550ba3fb46cfbae4f5e1b91663ca"
+	name: "ZotyDev#5fdc550b"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		53148DA5519AB791: 1
+	}
+	started: {
+		4DB82F5802C2B0F7: 1716560281144L
+		0000000000000001: 1716560281144L
+		53148DA5519AB791: 1716560374817L
+		42CEEAEF9352413F: 1716560374817L
+	}
+	completed: {
+		21FFBD5B303AC7B1: 1716560374818L
+		53148DA5519AB791: 1716560374818L
+		42CEEAEF9352413F: 1716560374818L
+		4DB82F5802C2B0F7: 1716560374818L
+	}
+	claimed_rewards: {
+		"5fdc550ba3fb46cfbae4f5e1b91663ca:2E0736B142B9AE4E": 1716560375451L
+	}
+	player_data: {
+		5fdc550ba3fb46cfbae4f5e1b91663ca: {
+			can_edit: 1b
+		}
+	}
+}

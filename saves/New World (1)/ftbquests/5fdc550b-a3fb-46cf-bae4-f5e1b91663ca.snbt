@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5fdc550ba3fb46cfbae4f5e1b91663ca"
+	name: "ZotyDev#5fdc550b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

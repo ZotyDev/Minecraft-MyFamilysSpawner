@@ -1,0 +1,79 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1__getting_started"
+	group: "21FFBD5B303AC7B1"
+	id: "4DB82F5802C2B0F7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"What was I doing?"
+				""
+				"Oh right, my grandmother just passed.."
+				""
+				"I have good memories of her, in her early life, before I was even born, she was a great adventurer, the type that gets &o&6legendary&r&r songs written for. But she never stopped, I remember the festival to celebrate the time she killed the &l&5EnderDragon&r&r."
+				""
+				"But today only our family remembers it, and now this family consists of just me, mom and dad are too busy working on the Mekanism factory, and I don't even consider my brother part of the family, hes was a cool guy before he started planting Mystical Agriculture crops.."
+				""
+				"{@pagebreak}"
+				"I'm at her house, the place is kinda abandoned now, she was too sick to take care of it, specially her mob farm."
+				""
+				"Redstone States sent me this letter, I wonder what is inside..."
+			]
+			icon: "furnish:gravestone"
+			icon_scale: 0.8d
+			id: "42CEEAEF9352413F"
+			rewards: [{
+				id: "2E0736B142B9AE4E"
+				item: {
+					Count: 1
+					id: "furnish:letter"
+					tag: {
+						Author: "Redstone States"
+						Text: "Dear Recipient,\n\nWe regret to inform you of your grandmother's passing. As per her will, you inherit her Mob Farm.\nThis valuable property now requires your care and management. Honor her legacy by maintaining and enhancing it."
+					}
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "53148DA5519AB791"
+				title: "Its sad, but I must continue my life"
+				type: "checkmark"
+			}]
+			title: "My grandmother just passed"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42CEEAEF9352413F"]
+			description: [
+				"I was not expecting that at all, grandma knew that I was just an Applied Energistics network engineer, I don't know how to handle a mob farm, I barely can craft at a workbench, now that I'm thinking about it I don't remember the last time I crafted something without requesting to the Statal Applied Energistics Network."
+				""
+				"Well, I shouldn't worry about it, it was my reality before I got fired, turns out working on automating your own job is not a very reliable profession."
+				""
+				"{@pagebreak}"
+				"People say that mob resources are on demand, specially now that everyone is just dealing with tech, I heard that some people made a Draconic Reactor at the End some weeks ago. And the pressure, o h. m y. g o d. the pressure was killing me, I got to a point were everyone was yelling at me because I didn't use 1 channel of the main network brain while doing an automation."
+				""
+				"{@pagebreak}"
+				"You know what, I will take this challenge!"
+				""
+				"&7&oNot that I have many options at the moment, I'm here because I couldn't pay the rent of the month&r&r"
+			]
+			hide_details_until_startable: true
+			id: "62F03577856B9790"
+			tasks: [{
+				id: "3B11F119963E2651"
+				title: "I guess it is"
+				type: "checkmark"
+			}]
+			title: "The place is mine?"
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	title: "1 - Getting Started"
+}

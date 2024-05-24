@@ -4,6 +4,14 @@
 /server-resource-packs
 /defaultconfigs
 /resourcepacks
+/modernfix
+/texturepacks
+/screenshots
+/shaderpacks
+/saves
+/crash-reports
 
 /**/*.log
 /options.txt
+/usercache.json
+/usernamecache.json
