@@ -1,0 +1,15 @@
+{
+    "name": "My Family's Spawner",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "overrides": [
+        "config"
+    ],
+    "server_overrides": [
+    ],
+    "client_overrides": [
+    ],
+    "projects": {
+    }
+}

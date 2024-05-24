@@ -1,3 +1,3 @@
 # My Family's Spawner
 
-This is a Modpack created for the MPD Discord server jam.
+Minecraft Modpack created for the MPD Discord server jam.
