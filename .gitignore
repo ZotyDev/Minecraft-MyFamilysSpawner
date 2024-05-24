@@ -1,0 +1,9 @@
+/coremods
+/mods
+/logs
+/server-resource-packs
+/defaultconfigs
+/resourcepacks
+
+/**/*.log
+/options.txt
